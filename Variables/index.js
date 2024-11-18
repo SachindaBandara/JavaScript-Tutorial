@@ -12,6 +12,7 @@ document.getElementById("head1").textContent = `Hello World`;
 document.getElementById("p1").textContent = `I like ice cream`;
 
 // ----------------------------------------------------------------
+
 // Variable = A container that stores a value
 //          = Behaves as if it were the value it contain
 
